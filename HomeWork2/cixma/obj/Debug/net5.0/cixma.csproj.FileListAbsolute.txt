@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\bin\Debug\net5.0\cixma.exe
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\bin\Debug\net5.0\cixma.deps.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\bin\Debug\net5.0\cixma.runtimeconfig.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\bin\Debug\net5.0\cixma.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\bin\Debug\net5.0\cixma.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\bin\Debug\net5.0\cixma.pdb
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\obj\Debug\net5.0\cixma.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\obj\Debug\net5.0\cixma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\obj\Debug\net5.0\cixma.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\obj\Debug\net5.0\cixma.AssemblyInfo.cs
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\obj\Debug\net5.0\cixma.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\obj\Debug\net5.0\cixma.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\obj\Debug\net5.0\refint\cixma.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\obj\Debug\net5.0\cixma.pdb
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\obj\Debug\net5.0\cixma.genruntimeconfig.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\cixma\obj\Debug\net5.0\ref\cixma.dll

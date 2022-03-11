@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\bin\Debug\net5.0\void method divide.exe
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\bin\Debug\net5.0\void method divide.deps.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\bin\Debug\net5.0\void method divide.runtimeconfig.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\bin\Debug\net5.0\void method divide.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\bin\Debug\net5.0\void method divide.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\bin\Debug\net5.0\void method divide.pdb
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\obj\Debug\net5.0\void method divide.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\obj\Debug\net5.0\void method divide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\obj\Debug\net5.0\void method divide.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\obj\Debug\net5.0\void method divide.AssemblyInfo.cs
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\obj\Debug\net5.0\void method divide.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\obj\Debug\net5.0\void method divide.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\obj\Debug\net5.0\refint\void method divide.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\obj\Debug\net5.0\void method divide.pdb
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\obj\Debug\net5.0\void method divide.genruntimeconfig.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method divide\obj\Debug\net5.0\ref\void method divide.dll

@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\bin\Debug\net5.0\arr method.exe
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\bin\Debug\net5.0\arr method.deps.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\bin\Debug\net5.0\arr method.runtimeconfig.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\bin\Debug\net5.0\arr method.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\bin\Debug\net5.0\arr method.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\bin\Debug\net5.0\arr method.pdb
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\obj\Debug\net5.0\arr method.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\obj\Debug\net5.0\arr method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\obj\Debug\net5.0\arr method.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\obj\Debug\net5.0\arr method.AssemblyInfo.cs
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\obj\Debug\net5.0\arr method.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\obj\Debug\net5.0\arr method.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\obj\Debug\net5.0\refint\arr method.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\obj\Debug\net5.0\arr method.pdb
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\obj\Debug\net5.0\arr method.genruntimeconfig.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\arr method\obj\Debug\net5.0\ref\arr method.dll

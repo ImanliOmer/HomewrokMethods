@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\bin\Debug\net5.0\void method return differencce.exe
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\bin\Debug\net5.0\void method return differencce.deps.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\bin\Debug\net5.0\void method return differencce.runtimeconfig.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\bin\Debug\net5.0\void method return differencce.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\bin\Debug\net5.0\void method return differencce.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\bin\Debug\net5.0\void method return differencce.pdb
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\obj\Debug\net5.0\void method return differencce.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\obj\Debug\net5.0\void method return differencce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\obj\Debug\net5.0\void method return differencce.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\obj\Debug\net5.0\void method return differencce.AssemblyInfo.cs
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\obj\Debug\net5.0\void method return differencce.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\obj\Debug\net5.0\void method return differencce.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\obj\Debug\net5.0\refint\void method return differencce.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\obj\Debug\net5.0\void method return differencce.pdb
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\obj\Debug\net5.0\void method return differencce.genruntimeconfig.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\void method return differencce\obj\Debug\net5.0\ref\void method return differencce.dll

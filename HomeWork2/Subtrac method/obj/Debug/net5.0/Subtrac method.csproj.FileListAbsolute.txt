@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\bin\Debug\net5.0\Subtrac method.exe
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\bin\Debug\net5.0\Subtrac method.deps.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\bin\Debug\net5.0\Subtrac method.runtimeconfig.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\bin\Debug\net5.0\Subtrac method.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\bin\Debug\net5.0\Subtrac method.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\bin\Debug\net5.0\Subtrac method.pdb
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\obj\Debug\net5.0\Subtrac method.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\obj\Debug\net5.0\Subtrac method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\obj\Debug\net5.0\Subtrac method.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\obj\Debug\net5.0\Subtrac method.AssemblyInfo.cs
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\obj\Debug\net5.0\Subtrac method.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\obj\Debug\net5.0\Subtrac method.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\obj\Debug\net5.0\refint\Subtrac method.dll
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\obj\Debug\net5.0\Subtrac method.pdb
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\obj\Debug\net5.0\Subtrac method.genruntimeconfig.cache
+C:\Users\Omer\Desktop\hametask2\HomeWork2\Subtrac method\obj\Debug\net5.0\ref\Subtrac method.dll
